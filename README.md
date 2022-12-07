@@ -7,7 +7,7 @@ Damn Vulnerable Vehicle Application (DVVA) is some vehicle application that is d
 The aim of DVVA is to practice some of the most common vehicle vulnerabilities.
 
 ## Exercise
-Emulation real vulnerabilities
+Simulate real vulnerabilities
 | Status                   | Exercise                                                     | Target        | Linked                                                       |
 | ------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | :white_check_mark:       | [bosch headunit root](https://github.com/delikely/DVVA/tree/main/Automotive/bosch%20headunit%20root) | Head Unit     | [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) |
